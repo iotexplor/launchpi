@@ -3,7 +3,7 @@ Bundle-ManifestVersion: 2
 Bundle-Name: Raspberry PI Java Launcher Plugin
 Bundle-SymbolicName: org.launchpi.launcher;singleton:=true
 Bundle-Version: 0.0.1.qualifier
-Bundle-RequiredExecutionEnvironment: JavaSE-11
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  org.eclipse.rse.core,
