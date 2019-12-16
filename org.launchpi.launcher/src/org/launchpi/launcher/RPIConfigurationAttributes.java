@@ -5,6 +5,7 @@ public interface RPIConfigurationAttributes {
 	public static final String SYSTEM = "rpiSystem"; //$NON-NLS-1$
 	public static final String DEBUG_PORT = "rpiSystemDebugPort"; //$NON-NLS-1$
 	public static final String RUN_AS_ROOT = "rpiRunAsRoot"; //$NON-NLS-1$
+	public static final String FULL_UPDATE = "rpiFullUpdate"; //$NON-NLS-1$
 	public static final String SYSTEM_PROFILE = "rpiSystemProfile"; //$NON-NLS-1$
 	public static final String DISPLAY = "display"; //$NON-NLS-1$
 	
