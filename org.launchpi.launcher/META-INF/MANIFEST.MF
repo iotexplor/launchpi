@@ -19,7 +19,7 @@ Require-Bundle: org.eclipse.ui,
  org.apache.commons.io,
  org.eclipse.rse.subsystems.shells.ssh,
  org.apache.commons.compress,
- org.eclipse.ui.console;bundle-version="3.8.600"
+ org.eclipse.ui.console
 Bundle-Activator: org.launchpi.launcher.LaunchPlugin
 Bundle-ActivationPolicy: lazy
 Automatic-Module-Name: org.launchpi.launcher
